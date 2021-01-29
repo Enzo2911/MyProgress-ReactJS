@@ -1,0 +1,17 @@
+Cours mémo :
+
+Expo commande pour installé : npm i -g expo-cli
+
+Crée une app commande : expo init <TITRE>
+
+Choix type : Blank pour vide.
+
+Démarrer app commande = npm start
+
+Components = Element Graphique
+
+Deux type de components = Deja existant & Custom (Combinaison de plusieur)
+
+https://github.com/vhpoet/react-native-styling-cheat-sheet
+
+PROPS = Propriété appliqueée a un component 
